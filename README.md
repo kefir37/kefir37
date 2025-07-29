@@ -29,20 +29,10 @@ I value clean code, clear architecture, and automation. Passionate about cloud t
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denis-zajtsev&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denis-zajtsev&theme=radical" width="48%" />
-</p>
-
----
-
 ### 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/denis-zajtsev)
-- [Email](mailto:your.email@example.com)
-- [Telegram](https://t.me/yourusername)
+- [Email](mailto:zajtsevcareer@gmail.com)
 
 ---
 

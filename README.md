@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://tenor.com/bQ1Au.gif" alt="Welcome GIF" />
+</p>
 <h1 align="center">Hi there, I'm Denis 👋</h1>
 <p align="center">
   Backend Developer | Java | Spring | REST | PostgreSQL | Docker

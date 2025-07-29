@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://tenor.com/bQ1Au.gif" alt="Welcome GIF" />
-</p>
+<div class="tenor-gif-embed" data-postid="24991476" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476">Coding Scaler GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi there, I'm Denis 👋</h1>
 <p align="center">
   Backend Developer | Java | Spring | REST | PostgreSQL | Docker
